@@ -45,3 +45,4 @@ Tandem's first core value is "Ship Quality Work." We love unit tests and automat
 
 ## Developer Process
 1. To begin the challenge, I created an automated Kanban project board in GitHub Projects to track the action items needed to meet the challenge requirements (see screenshot below). I also added optional extensions to the project board to showcase additional skills not required by the challenge.
+<img width="1440" alt="Screen Shot 2020-10-26 at 10 06 56 PM" src="https://user-images.githubusercontent.com/61103957/97345207-66233b00-184f-11eb-8e2b-33f79d715889.png">
