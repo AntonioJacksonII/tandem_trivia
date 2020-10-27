@@ -1,6 +1,14 @@
 # Tandem Trivia
 
-This is a project completed by @AntonioJacksonII for the Tandem Apprentice Software Engineer code challenge. This project was completed using Ruby on Rails.
+This is a project completed by [@AntonioJacksonII](https://github.com/AntonioJacksonII) for the [Tandem Software Engineer Apprenticeship](https://madeintandem.com/about/apprenticeship-program/) code challenge. This project was completed using Ruby on Rails.
+
+## Table of Contents
+* [Challenge Prompt](#Challenge-Prompt)  
+    * [Goal](#Goal)
+    * [Assumptions](#Assumptions)
+    * [Acceptance Criteria](#Acceptance-Criteria)
+    * [Additional Considerations](#Additional-Considerations)
+* [Developer Process](#Developer-Process)
 
 ## Challenge Prompt
 
@@ -34,3 +42,6 @@ We would also like to see a README which includes any information about how to r
 
 ### Additional Considerations
 Tandem's first core value is "Ship Quality Work." We love unit tests and automated test coverage in our projects. Well-tested code provides documentation for other developers and prevents future regressions (bugs introduced after a change) among other things. If you would like a challenge, consider adding unit tests to display your commitment to quality code.
+
+## Developer Process
+1. To begin the challenge, I created an automated Kanban project board in GitHub Projects to track the action items needed to meet the challenge requirements (see screenshot below). I also added optional extensions to the project board to showcase additional skills not required by the challenge.
