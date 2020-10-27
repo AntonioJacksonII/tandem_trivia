@@ -44,5 +44,5 @@ We would also like to see a README which includes any information about how to r
 Tandem's first core value is "Ship Quality Work." We love unit tests and automated test coverage in our projects. Well-tested code provides documentation for other developers and prevents future regressions (bugs introduced after a change) among other things. If you would like a challenge, consider adding unit tests to display your commitment to quality code.
 
 ## Developer Process
-1. To begin the challenge, I created an automated Kanban project board in GitHub Projects to track the action items needed to meet the challenge requirements (see screenshot below). I also added optional extensions to the project board to showcase additional skills not required by the challenge.
+1. To begin the challenge, I created an automated Kanban [project board](https://github.com/AntonioJacksonII/tandem_trivia/projects/1) in GitHub Projects to track the action items needed to meet the challenge requirements (see screenshot below). I also added optional extensions to the project board to showcase additional skills not required by the challenge.
 <img width="1440" alt="Screen Shot 2020-10-26 at 10 06 56 PM" src="https://user-images.githubusercontent.com/61103957/97345207-66233b00-184f-11eb-8e2b-33f79d715889.png">
