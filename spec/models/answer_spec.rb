@@ -5,4 +5,8 @@ describe Answer, type: :model do
         it { should validate_presence_of(:response) }
         it { should validate_presence_of(:correct?) }
     end
+
+    describe 'relationships' do
+        it { should belong_to(:question) } 
+    end
 end
