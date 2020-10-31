@@ -1,5 +1,5 @@
 class Answer < ApplicationRecord
     validates_presence_of :response
-    validates_presence_of :correct?
+    validates :correct?, inclusion: [true, false]
     belongs_to :question
 end
