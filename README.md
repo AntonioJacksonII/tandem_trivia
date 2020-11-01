@@ -1,5 +1,7 @@
 # Tandem Trivia
 
+[![Build Status](https://travis-ci.org/AntonioJacksonII/tandem_trivia.svg?branch=main)](https://travis-ci.org/AntonioJacksonII/tandem_trivia)
+
 This is a project completed by [@AntonioJacksonII](https://github.com/AntonioJacksonII) for the [Tandem Software Engineer Apprenticeship](https://madeintandem.com/about/apprenticeship-program/) code challenge. This project was completed using Ruby on Rails.
 
 ## Table of Contents
