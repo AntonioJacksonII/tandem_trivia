@@ -5,5 +5,6 @@ describe 'root page', type: :feature do
         visit '/'
         
         expect(page).to have_content('Welcome to Tandem Trivia!')
+        expect(page).to have_button('Take Quiz')
     end
 end
