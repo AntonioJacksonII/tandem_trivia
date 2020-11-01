@@ -11,5 +11,5 @@ task seed: :environment do
         end
         question.answers.create!(response: q[:correct], correct?: true)
     end
-    puts "Database seeded with #{json.count} questions and associated answers from the file located at #{ENV['TRIVIA_DATA_FILE']}"
+    puts "Database seeded with #{json.count} questions and associated answers from the file located at 'lib/assets/Apprentice_TandemFor400_Data.json'"
 end
