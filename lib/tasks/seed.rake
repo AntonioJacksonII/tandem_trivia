@@ -1,7 +1,7 @@
 desc 'Seeds the database with the questions and answers from the data file'
 
 task seed: :environment do
-    trivia = File.read(ENV['TRIVIA_DATA_FILE'])
+    trivia = File.read('lib/assets/Apprentice_TandemFor400_Data.json')
     json = JSON.parse(trivia, symbolize_names: true)
 
     json.each do |q|
