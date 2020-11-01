@@ -26,5 +26,5 @@ deploy:
   run:
     - rails db:migrate
     - rake seed
-  notifications:
-    email: false
+notifications:
+  email: false
