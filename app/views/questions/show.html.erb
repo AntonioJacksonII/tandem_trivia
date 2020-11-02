@@ -2,7 +2,17 @@
 <html>
 <body>
 
-<h1>Question</h1>
+<h1>Question:</h1>
+
+<h2><%= @current_question.ask %></h2>
+
+<h3>Select your answer below and click "Submit"</h3>
+
+<%= form_tag("/questions/#{@current_question.id}/answer", method: :post) do %>
+    <% @current_answers.each do |answer| %>
+        <%= answer.response %>%= radio_button_tag "correct", answer.correct? %>
+    <% end %>
+<% end %>
 
 </body>
 </html>
